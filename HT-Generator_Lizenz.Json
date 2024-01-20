@@ -1,0 +1,16 @@
+{
+  "Lizenzen": [
+    {
+      "Name": "Matthias Obert",
+      "Seriennummer": 12345,
+      "Passwort": "Hallo",
+      "Lizenz_aktiv": true
+    },
+    {
+      "Name": "Jonas Lehmann",
+      "Seriennummer": 6789,
+      "Passwort": "Hallo_2",
+      "Lizenz_aktiv": false
+    }
+  ]
+}
