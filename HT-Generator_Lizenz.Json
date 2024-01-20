@@ -4,13 +4,13 @@
       "Name": "Matthias Obert",
       "Seriennummer": 12345,
       "Passwort": "Hallo",
-      "Lizenz_aktiv": true
+      "Lizenz_aktiv": "Ja"
     },
     {
       "Name": "Jonas Lehmann",
       "Seriennummer": 6789,
       "Passwort": "Hallo_2",
-      "Lizenz_aktiv": false
+      "Lizenz_aktiv": "Nein"
     }
   ]
 }
