@@ -1,0 +1,15 @@
+{
+    "licenses": [
+      {
+        "name": "Jonas Lehmann",
+        "email": "Jonny_Le@web.de",
+        "active": true
+      },
+      {
+        "name": "Erika Musterfrau",
+        "email": "erika@example.com",
+        "active": false
+      }
+    ]
+  }
+  
