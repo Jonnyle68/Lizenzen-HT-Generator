@@ -10,7 +10,7 @@
       "name": "Erika Musterfrau",
       "email": "erika@example.com",
       "licenseKey": "DEF456UVW",
-      "active": false
+      "active": true
     }
   ]
 }
