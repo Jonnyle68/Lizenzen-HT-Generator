@@ -1,15 +1,16 @@
 {
-    "licenses": [
-      {
-        "name": "Jonas Lehmann",
-        "email": "Jonny_Le@web.de",
-        "active": false
-      },
-      {
-        "name": "Erika Musterfrau",
-        "email": "erika@example.com",
-        "active": true
-      }
-    ]
-  }
-  
+  "licenses": [
+    {
+      "name": "Max Mustermann",
+      "email": "max@example.com",
+      "licenseKey": "ABC123XYZ",
+      "active": true
+    },
+    {
+      "name": "Erika Musterfrau",
+      "email": "erika@example.com",
+      "licenseKey": "DEF456UVW",
+      "active": false
+    }
+  ]
+}
