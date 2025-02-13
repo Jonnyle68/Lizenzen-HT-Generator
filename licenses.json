@@ -8,7 +8,7 @@
       {
         "name": "Erika Musterfrau",
         "email": "erika@example.com",
-        "active": false
+        "active": true
       }
     ]
   }
