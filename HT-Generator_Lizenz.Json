@@ -1,16 +1,15 @@
 {
-  "Lizenzen": [
-    {
-      "Name": "Matthias Obert",
-      "Seriennummer": 12345,
-      "Passwort": "Hallo",
-      "Lizenz_aktiv": "Ja"
-    },
-    {
-      "Name": "Jonas Lehmann",
-      "Seriennummer": 6789,
-      "Passwort": "Hallo_2",
-      "Lizenz_aktiv": "Nein"
-    }
-  ]
-}
+    "licenses": [
+      {
+        "name": "Jonas Lehmann",
+        "email": "Jonny_Le@web.de",
+        "active": true
+      },
+      {
+        "name": "Erika Musterfrau",
+        "email": "erika@example.com",
+        "active": false
+      }
+    ]
+  }
+  
